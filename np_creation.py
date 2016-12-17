@@ -35,3 +35,7 @@ print h
 # numpy can define a line array
 j = np.linspace(1, 10, 5)
 print j
+
+# numpy can define a eye
+k = np.eye(3)
+print k
